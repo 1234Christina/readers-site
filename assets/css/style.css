@@ -6,7 +6,7 @@ h1 {
     font-weight: 400;
 }
 
-#readers {
+.readers {
     color: black;
     font-family: 'Quicksand', sans-serif;
 }
