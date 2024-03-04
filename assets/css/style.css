@@ -1,12 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Quicksand&display=swap');
 
 h1 {
-    color: blue;
+    color: #540b0e;
     font-family: 'Quicksand', sans-serif;
     font-weight: 400;
+}
+
+h2 {
+    color: #9e2a2b;
+}
+
+body {
+    background-color: #fff3b0;
+
 }
 
 .readers {
     color: black;
     font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+
+header, footer {
+    background-color: #e09f3e;
 }
