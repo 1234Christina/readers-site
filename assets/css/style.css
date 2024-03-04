@@ -23,5 +23,15 @@ body {
 
 header, footer {
     background-color: #fcc168;
+
+}
+
+footer li {
+    list-style-type: none;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
     
+    h3 {
+    color: #540b0e;
+    }
 }
