@@ -12,7 +12,13 @@ h2 {
 
 body {
     background-color: #fff3b0;
+    position: relative;
+}
 
+nav {
+    padding: 8px;
+    font-family: 'Quicksand', sans-serif;
+    text-transform: capitalize;
 }
 
 .readers {
@@ -23,7 +29,8 @@ body {
 
 header, footer {
     background-color: #fcc168;
-
+    width: 100%;
+    position: fixed;
 }
 
 footer li {
