@@ -1,16 +1,24 @@
 # What my Project does 
-My website finds book shops in Cork city and supplies podcasts and reading music. Also provides useful information about kid’s resources. 
+My website highlights the best book shops in Cork city and supplies podcasts and reading music. It also provides useful information about kid’s resources. 
 
 # User stories 
-As a reader:
-As a reader with kids:
-As a new reader:
-As wheelchair user:
+As a reader: I can browse through the site and find out about what the bookshops have to offer.
+As a reader with kids: I can find book shops with kids books and kids resources for reading and learning.
+As a new reader: I can find information on how to find something engaging to read based on my interests.
+As wheelchair user: 
+
+## 
  
 
 ## Future Features 
-An extended list of bookshops and resources for readers covering other cities and towns. This feature was far beyond the scope of this project.
-WHEELCHAIR ACCESS in the shops mentioned. 
+I would add extended list of bookshops and resources for readers covering other cities and towns. This feature was far beyond the scope of this project. 
 
 ## Testing 
-I did an initial test on lighthouse to ensure that the meta tags were useful.
+I did testing on Lighthouse regularly throughout the development process to ensure my updates were efficient in every way.
+
+### Validator testing
+
+## Deployment
+
+## Credits
+
