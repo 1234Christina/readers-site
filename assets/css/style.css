@@ -31,7 +31,7 @@ main {
 nav {
     padding: 8px;
     font-family: 'Quicksand', sans-serif;
-    text-transform: capitalize;
+    
 }
 
 .readers {
@@ -44,11 +44,15 @@ header, footer {
     background-color: #fcc168;
     width: 100%;
     
-    /*position: fixed;*/
+}
+
+header {
+    position: fixed;
 }
 
 footer {
-
+    width: fit-content;
+    height: auto;
 }
 
 footer li {
