@@ -32,7 +32,8 @@ main {
 nav {
     padding: 8px;
     font-family: 'Quicksand', sans-serif;
-    
+    display: flex;
+    flex-direction: column;
 }
 
 .readers {
