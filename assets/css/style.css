@@ -48,7 +48,10 @@ header, footer {
 }
 
 header {
-    position: fixed;
+    position: static;
+    margin: 0 2%;
+    display: flex;
+
 }
 
 footer {
