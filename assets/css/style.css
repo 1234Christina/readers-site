@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Quicksand&display=swap');
 
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 h1 {
     color: #540b0e;
     font-family: 'Quicksand', sans-serif;
@@ -37,6 +43,7 @@ nav {
 header, footer {
     background-color: #fcc168;
     width: 100%;
+    
     /*position: fixed;*/
 }
 
