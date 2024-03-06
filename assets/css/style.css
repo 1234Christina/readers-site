@@ -1,21 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Quicksand&display=swap');
 
+/*Override default browser styles*/
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
+/*Site name styles*/
 h1 {
     color: #540b0e;
     font-family: 'Quicksand', sans-serif;
     font-weight: 400;
 }
 
+/*Styles for tagline on landing page*/
+#tagline {
+
+}
+
+/*Bookshop name styles*/
 h2 {
     color: #9e2a2b;
 }
 
+/*Main body styles*/
 body {
     background-color: #fff3b0;
     position: relative;
@@ -25,10 +34,12 @@ body {
     margin: 2% 2%;
 }
 
+/*Styling to */
 main {
     flex: 1 0 auto;
 }
 
+/*Styling for the navigation bar*/
 nav {
     padding: 8px;
     font-family: 'Quicksand', sans-serif;
@@ -36,6 +47,7 @@ nav {
     flex-direction: column;
 }
 
+/*Styling for each paragraph about bookshops*/
 .readers {
     color: black;
     font-family: 'Quicksand', sans-serif;
@@ -46,12 +58,14 @@ nav {
     background-image: ;
 }*/
 
+/*Styles for header and footer*/
 header, footer {
     background-color: #fcc168;
     width: 100%;
     
 }
 
+/*More styles for header*/
 header {
     position: static;
     display: flex;
@@ -60,11 +74,13 @@ header {
     box-sizing: border-box;
 }
 
+/*More styles for footer*/
 footer {
     width: fit-content;
     height: auto;
 }
 
+/*Styles for footer list items*/
 footer li {
     list-style-type: none;
     font-family: 'Quicksand', sans-serif;
@@ -75,9 +91,14 @@ footer li {
     }
 }
 
+/*Syles for tablet screens and larger*/
 @media screen and (min-width: 768px) {
     body {
-        width: 90vw;
+        width: 95vw;
         align-self: center;
+    }
+
+    footer {
+        width: 95vw;
     }
 }
