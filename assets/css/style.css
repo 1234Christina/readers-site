@@ -16,7 +16,9 @@ h1 {
 
 /*Styles for tagline on landing page*/
 #tagline {
-
+    font-family: 'Quicksand', Verdana, sans-serif;
+    color: black;
+    display: block;
 }
 
 /*Bookshop name styles*/
