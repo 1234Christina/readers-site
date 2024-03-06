@@ -37,9 +37,10 @@ body {
     margin: 2% 2%;
 }
 
-/*Styling to */
+/*Styling for main element*/
 main {
     flex: 1 0 auto;
+    margin-top: 85px;
 }
 
 /*Styling for the navigation bar*/
@@ -66,7 +67,7 @@ header, footer {
 
 /*More styles for header*/
 header {
-    position: static;
+    position: fixed;
     display: flex;
     padding: 0;
     margin: 0;
