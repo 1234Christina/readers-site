@@ -93,7 +93,7 @@ h3 {
     color: #540b0e;
     }
 
-/*Syles for tablet screens and larger*/
+/*Styles for tablet screens and larger*/
 @media screen and (min-width: 768px) {
     body {
         width: 95vw;
@@ -103,4 +103,9 @@ h3 {
     footer {
         width: 95vw;
     }
+}
+
+/*Styles for laptop screens and larger*/
+@media screen and (min-width: 992px) {
+    
 }
