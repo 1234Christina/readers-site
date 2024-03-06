@@ -107,5 +107,14 @@ h3 {
 
 /*Styles for laptop screens and larger*/
 @media screen and (min-width: 992px) {
-    
+    body {
+        width: 98vw;
+        align-self: center;
+    }
+
+    footer {
+        width: 98vw;
+        align-self: center;
+        padding: 3px 3px;
+    }
 }
