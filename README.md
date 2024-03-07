@@ -22,9 +22,15 @@ I can find information on how to find something engaging to read based on my int
 
 Landing Page: There are three sections where the user can read information on three great bookshops in the city of Cork.
 
+![Screenshot of deployed version of Landing page](assets/images/Screenshot%202024-03-07%20180604.png)
+
 Tune In Page: There are two embedded reading music videos a user can utilize without having to leave the website.
 
+![Screenshot of deployed version of Tune In page](assets/images/Screenshot%202024-03-07%20180631.png)
+
 Newsletter Page: The user will find a fully validated sign-up form for a newsletter about more bookshops.
+
+![Screenshot of deployed version of Newsletter page](assets/images/Screenshot%202024-03-07%20180701.png)
 
 ## Future Features 
 I would add extended list of bookshops and resources for readers covering other cities and towns. This feature was far beyond the scope of this project. 
