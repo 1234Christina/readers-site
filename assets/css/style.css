@@ -98,6 +98,11 @@ h3 {
     background-size: cover;
 }
 
+.form-fields {
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
 /*Styles for tablet screens and larger*/
 @media screen and (min-width: 768px) {
     body {
