@@ -52,6 +52,10 @@ nav {
     flex-direction: column;
 }
 
+nav a:active {
+    color: #540b0e;
+}
+
 /*Styling for each paragraph about bookshops*/
 .readers {
     color: black;
