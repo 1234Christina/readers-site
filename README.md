@@ -26,13 +26,13 @@ The deployed website does well on Lighthouse testing for all three pages
 
 ![Screenshot of Lighthouse report Newsletter Page, deployed version](assets/images/Screenshot%202024-03-07%20155640.png)
 
-### Am I Responsive Testing
+### Am I Responsive? Testing
 The site displays well when tested on all screen sizes
 ![Screenshot of Am I Responsive reslt for deployed project](assets/images/Screenshot%202024-03-07%20154858.png)
 
 ### Validator testing
 The deployed version of code passes validator testing for HTML and CSS
-IMAGE
+![Screenshot of Validator testing for style.css file](assets/images/Screenshot%202024-03-07%20160214.png)
 
 ## Deployment
 I deployed the site to github pages on 6 march and everything worked the same as it did on the development version.
