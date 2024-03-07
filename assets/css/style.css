@@ -113,6 +113,11 @@ h3 {
         margin-left: 5px;
     }
 
+    nav {
+        display: flex;
+        flex-direction: row;
+    }
+
     footer {
         width: 95vw;
     }
@@ -130,6 +135,11 @@ h3 {
         width: 98vw;
         align-self: center;
         margin-left: 1%;
+    }
+
+    nav {
+        display: inline;
+        justify-content: space-between;
     }
 
     footer {
