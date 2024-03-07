@@ -114,8 +114,8 @@ h3 {
     }
 
     nav {
-        display: flex;
-        flex-direction: row;
+        display: inline;
+        justify-content: space-between;
     }
 
     footer {
