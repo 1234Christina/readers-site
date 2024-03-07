@@ -16,14 +16,26 @@ I would add in podcasts on the Tune In page so users can play them within the we
 
 
 ## Testing 
+### Lighthouse Testing
 I did testing on Lighthouse regularly throughout the development process to ensure my updates were efficient in every way.
+
+![Screenshot of Lighthouse report Explore page, deployed version](assets/images/Screenshot%202024-03-07%20155029.png)
+
+![Screenshot of Lighthouse report Tune In Page, deployed version](assets/images/Screenshot%202024-03-07%20155232.png)
+
+![Screenshot of Lighthouse report Newsletter Page, deployed version](assets/images/Screenshot%202024-03-07%20155640.png)
+
+### Am I Responsive Testing
+IMAGE
 
 ### Validator testing
 All code passes validator testing for HTML and CSS
-ADD IMAGE
+IMAGE
 
 ## Deployment
 I deployed the site to github pages on 6 march and everything worked the same as it did on the development version.
+
+IMAGE
 
 ## Credits
 Image on Newsletter page was found on unsplash: aaron-burden-4eWwSxaDhe4-unsplash.jpg "green ceramic mug beside book"
