@@ -19,6 +19,7 @@ I would add in podcasts on the Tune In page so users can play them within the we
 ### Lighthouse Testing
 I did testing on Lighthouse regularly throughout the development process to ensure my updates were efficient in every way.
 
+The deployed website does well on Lighthouse testing for all three pages
 ![Screenshot of Lighthouse report Explore page, deployed version](assets/images/Screenshot%202024-03-07%20155029.png)
 
 ![Screenshot of Lighthouse report Tune In Page, deployed version](assets/images/Screenshot%202024-03-07%20155232.png)
@@ -26,10 +27,11 @@ I did testing on Lighthouse regularly throughout the development process to ensu
 ![Screenshot of Lighthouse report Newsletter Page, deployed version](assets/images/Screenshot%202024-03-07%20155640.png)
 
 ### Am I Responsive Testing
-IMAGE
+The site displays well when tested on all screen sizes
+![Screenshot of Am I Responsive reslt for deployed project](assets/images/Screenshot%202024-03-07%20154858.png)
 
 ### Validator testing
-All code passes validator testing for HTML and CSS
+The deployed version of code passes validator testing for HTML and CSS
 IMAGE
 
 ## Deployment
