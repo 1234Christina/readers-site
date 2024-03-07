@@ -91,6 +91,7 @@ h3 {
     color: #540b0e;
     }
 
+/*Styles for the background image on Newsletter page*/
 .signing-up {
     background-image: url(../images/aaron-burden-4eWwSxaDhe4-unsplash.jpg);
     background-repeat: no-repeat;
@@ -98,9 +99,15 @@ h3 {
     background-size: cover;
 }
 
+/*Styles for the form*/
 .form-fields {
     margin-left: 10%;
     margin-top: 5%;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.form-fields p {
+    font-weight: bolder;
 }
 
 /*Styles for tablet screens and larger*/
@@ -129,6 +136,8 @@ h3 {
 
 /*Styles for laptop screens and larger*/
 @media screen and (min-width: 992px) {
+
+    /*Styles for body on laptop screens and larger*/
     body {
         margin-top: 0;
         margin-bottom: 0;
@@ -137,17 +146,20 @@ h3 {
         margin-left: 1%;
     }
 
+    /*Styles for nav bar on laptop screens and larger*/
     nav {
         display: inline;
         justify-content: space-between;
     }
 
+    /*Styles for footer on laptop screens and larger*/
     footer {
         width: 98vw;
         align-self: center;
         padding: 3px 3px;
     }
 
+    /*Styles for background image on Newsletter page on laptop screens and larger*/   
     .signing-up {
         width: 95vw;
     }
