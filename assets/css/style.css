@@ -17,20 +17,21 @@ h1 {
 /*Styles for tagline on landing page*/
 #tagline {
     font-family: Verdana, sans-serif;
-    font-style: italic;
+    font-style: normal;
     font-size: 1.5rem; 
     color: black;
     display: block;
+    background-color: peachpuff;
 }
 
 /*Bookshop name styles*/
 h2 {
-    color: #9e2a2b;
+    color: #3d1616;
 }
 
 /*Main body styles*/
 body {
-    background-color: #fff3b0;
+    background-color: white;
     position: relative;
     min-height: 100vh;
     display: flex;
@@ -58,6 +59,9 @@ nav a:active {
 
 /*Styling for each paragraph about bookshops*/
 .readers {
+    display: inline-block;
+    width: 30%;
+    height: 40%;
     color: black;
     font-family: 'Quicksand', sans-serif;
     font-weight: 500;
@@ -65,7 +69,7 @@ nav a:active {
 
 /*Styles for header and footer*/
 header, footer {
-    background-color: #fcc168;
+    background-color: white;
     width: 100%;
     
 }
