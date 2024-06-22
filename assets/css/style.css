@@ -152,6 +152,8 @@ h3 {
         width: 98vw;
         align-self: center;
         margin-left: 1%;
+        background-image: url(../images/book-shelf-concept-vector-45081013.webp);
+        background-repeat: no-repeat;
     }
 
     /*Styles for nav bar on laptop screens and larger*/
