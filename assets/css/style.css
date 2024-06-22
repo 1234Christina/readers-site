@@ -67,6 +67,11 @@ nav a:active {
     font-weight: 500;
 }
 
+.unique {
+    font-weight: 600;
+    color: purple;
+}
+
 /*Styles for header and footer*/
 header, footer {
     background-color: white;
@@ -100,12 +105,12 @@ h3 {
     }
 
 /*Styles for the background image on Newsletter page*/
-.signing-up {
-    background-image: url(../images/aaron-burden-4eWwSxaDhe4-unsplash.jpg);
-    background-repeat: no-repeat;
+/* .signing-up { */
+    /* background-image: url(../images/book-shelf-concept-vector-45081013.webp); */
+    /* background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
-}
+    background-size: cover; */
+/* } */
 
 /*Styles for the form*/
 .form-fields {
