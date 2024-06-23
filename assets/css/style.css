@@ -16,7 +16,7 @@ h1 {
 
 /*Styles for tagline on landing page*/
 #tagline {
-    margin: 0;
+    margin: 0 2%;
     padding: 15px;
     font-family: 'Quicksand', Verdana, sans-serif;
     font-style: normal;
@@ -36,25 +36,13 @@ h2 {
 /*Main body styles*/
 body {
     background-color: white;
-    /* position: relative; */
-    /* min-height: 100vh; */
-    /* display: flex;
-    flex-direction: column; */
+    min-height: 100vh;
     margin: 0;
-}
-
-/*Styling for main element*/
-main {
-    flex: 1 0 auto;
-    margin-top: 55px;
 }
 
 /*Styling for the navigation bar*/
 nav {
-    padding: 8px;
     font-family: 'Quicksand', sans-serif;
-    display: flex;
-    flex-direction: column;
 }
 
 nav a:active {
@@ -152,8 +140,7 @@ h3 {
 
     /*Styles for body on laptop screens and larger*/
     body {
-        width: 98vw;
-        align-self: center;
+        width: 100vw;
         background-image: url(../images/bookshelf-image.png);
         background-repeat: no-repeat;
         background-color: lavender;
@@ -162,9 +149,12 @@ h3 {
     }
 
     /*Styles for nav bar on laptop screens and larger*/
-    /* nav {
-        display: inline;
-        justify-content: space-between;
+    nav a {
+        margin-right: 1.75%;
+        padding: 2px;
+        background-color: lavender;
+        border: 2px solid peachpuff;
+        border-radius: 5px;
     }
 
     /*Styles for footer on laptop screens and larger*/
