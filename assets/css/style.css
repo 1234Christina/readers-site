@@ -50,17 +50,19 @@ nav a:active {
 }
 
 nav a:hover {
-    color: orange;
+    color: #ffa600;
 }
 
 /*Styling for each paragraph about bookshops*/
-.readers {
-    display: grid;
-    width: 25%;
+section {
     color: black;
-    text-align: left;
-    font-family: 'Quicksand', sans-serif;
+    background-color: #FFD2BF;
+    font-family: 'Quicksand', Verdana, sans-serif;
     font-weight: 500;
+    font-size: large;
+    margin: 0 0 2%;
+    padding: 2.5%;
+    border-radius: 15%;
 }
 
 .unique {
@@ -143,7 +145,7 @@ h3 {
         width: 100vw;
         background-image: url(../images/bookshelf-image.png);
         background-repeat: no-repeat;
-        background-color: lavender;
+        background-color: #e6e6fa;
         background-size: 90%;
         background-position: center;
     }
