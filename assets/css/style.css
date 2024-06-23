@@ -16,12 +16,17 @@ h1 {
 
 /*Styles for tagline on landing page*/
 #tagline {
+    margin-left: 0;
     font-family: Verdana, sans-serif;
     font-style: normal;
     font-size: 1.5rem; 
+    text-align: center;
+    padding: 2% 0 2%;
     color: black;
     display: block;
     background-color: peachpuff;
+    border: 1px solid white;
+    border-radius: 10px;
 }
 
 /*Bookshop name styles*/
@@ -42,7 +47,7 @@ body {
 /*Styling for main element*/
 main {
     flex: 1 0 auto;
-    margin-top: 85px;
+    margin-top: 55px;
 }
 
 /*Styling for the navigation bar*/
@@ -63,10 +68,10 @@ nav a:hover {
 
 /*Styling for each paragraph about bookshops*/
 .readers {
-    display: inline-block;
-    width: 30%;
-    height: 40%;
+    display: grid;
+    width: 25%;
     color: black;
+    text-align: left;
     font-family: 'Quicksand', sans-serif;
     font-weight: 500;
 }
@@ -108,14 +113,6 @@ h3 {
     color: #540b0e;
     }
 
-/*Styles for the background image on Newsletter page*/
-/* .signing-up { */
-    /* background-image: url(../images/book-shelf-concept-vector-45081013.webp); */
-    /* background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover; */
-/* } */
-
 /*Styles for the form*/
 .form-fields {
     margin-left: 10%;
@@ -130,11 +127,11 @@ h3 {
 /*Styles for tablet screens and larger*/
 @media screen and (min-width: 768px) {
     body {
-        margin-top: 5px;
-        margin-bottom: 5px;
-        width: 95vw;
-        align-self: center;
-        margin-left: 5px;
+        background-image: url(../images/bookshelf-image.png);
+        background-repeat: no-repeat;
+        background-color: lavender;
+        background-size: 90%;
+        background-position: center;
     }
 
     nav {
@@ -156,14 +153,13 @@ h3 {
 
     /*Styles for body on laptop screens and larger*/
     body {
-        margin-top: 0;
-        margin-bottom: 0;
         width: 98vw;
         align-self: center;
-        margin-left: 1%;
         background-image: url(../images/bookshelf-image.png);
         background-repeat: no-repeat;
         background-color: lavender;
+        background-size: 90%;
+        background-position: center;
     }
 
     /*Styles for nav bar on laptop screens and larger*/
