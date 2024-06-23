@@ -54,7 +54,11 @@ nav {
 }
 
 nav a:active {
-    color: #540b0e;
+    color: black;
+}
+
+nav a:hover {
+    color: orange;
 }
 
 /*Styling for each paragraph about bookshops*/
@@ -157,8 +161,9 @@ h3 {
         width: 98vw;
         align-self: center;
         margin-left: 1%;
-        background-image: url(../images/book-shelf-concept-vector-45081013.webp);
+        background-image: url(../images/bookshelf-image.png);
         background-repeat: no-repeat;
+        background-color: lavender;
     }
 
     /*Styles for nav bar on laptop screens and larger*/
