@@ -1,66 +1,57 @@
-# What my Project does 
-My website highlights the best book shops in Cork city on the Explore page and supplies reading music for users to enjoy on the Tune In page. 
-It also provides useful information about kid’s resources. 
-Users can chose to sign up to a newsletter for future updates.
-My site is primarily aimed at readers, especially those with children, tohelp them find bookshops with plenty of resources.
+# ROAMING READERS
+Roaming readers highlights the best bookshops to visit in Cork city. 
 
-# User stories 
-### As a reader: 
-I can browse through the site and find out about what the bookshops have to offer. 
-I can listen to effective reading music within the site.
+Readers can browse the information supplied about the top three bookshops, including something unique that each shop offers.
 
-### As a reader with kids: 
+Listen to effective reading music within the site.
 
-I can find book shops with kids books and kids resources for reading and learning.
-
-### As a new reader: 
-
-I can find information on how to find something engaging to read based on my interests.
-
+![Screenshot of Am I Responsive reslt for deployed project]() 
 ## Features
 
 Landing Page: There are three sections where the user can read information on three great bookshops in the city of Cork. Each section tells the user a little about the shop and what they can expect to find there.
 
-![Screenshot of deployed version of Landing page](assets/images/Screenshot%202024-03-07%20180604.png)
+![Screenshot of deployed version of Landing page]()
 
 Tune In Page: There are two embedded reading music videos a user can utilize without having to leave the website. Here, the user can listen to some appropriate music while enjoying a good book.
 
-![Screenshot of deployed version of Tune In page](assets/images/Screenshot%202024-03-07%20180631.png)
+![Screenshot of deployed version of Tune In page]()
 
 Newsletter Page: The user will find a fully validated sign-up form for a newsletter about more bookshops. This feature enables the user to easy receive more information.
 
-![Screenshot of deployed version of Newsletter page](assets/images/Screenshot%202024-03-07%20180701.png)
+![Screenshot of deployed version of Newsletter page]()
 
 ## Future Features 
-I would add extended list of bookshops and resources for readers covering other cities and towns. This feature was far beyond the scope of this project. 
-
-I would add in podcasts on the Tune In page so users can play them within the website using controls for play pause and volume control.
-
+The site could be continually expanded to introduce readers to bookshops in other cities and towns. 
+The Tune In page could include regularly updated podcasts playable within the website, helping readers stay updated and informed about bookish topics.
 
 ## Testing 
 ### Lighthouse Testing
 I did testing on Lighthouse regularly throughout the development process to ensure my updates were efficient in every way.
 
 The deployed website does well on Lighthouse testing for all three pages
-![Screenshot of Lighthouse report Explore page, deployed version](assets/images/Screenshot%202024-03-07%20155029.png)
+![Screenshot of Lighthouse report Explore page, deployed version]()
 
-![Screenshot of Lighthouse report Tune In Page, deployed version](assets/images/Screenshot%202024-03-07%20155232.png)
+![Screenshot of Lighthouse report Tune In Page, deployed version]()
 
-![Screenshot of Lighthouse report Newsletter Page, deployed version](assets/images/Screenshot%202024-03-07%20155640.png)
+![Screenshot of Lighthouse report Newsletter Page, deployed version]()
 
 ### Am I Responsive? Testing
-The site displays well when tested on all screen sizes
-![Screenshot of Am I Responsive reslt for deployed project](assets/images/Screenshot%202024-03-07%20154858.png)
+The site displays well when tested on all screen sizes as seen in the image at the top of the file.
 
 ### Validator testing
 The deployed version of code passes validator testing for HTML and CSS
-![Screenshot of Validator testing for style.css file](assets/images/Screenshot%202024-03-07%20160214.png)
+![Screenshot of Validator testing for style.css file]()
+same for 3 html files
 
 ## Deployment
-I deployed the site to github pages on 6 march and everything worked the same as it did on the development version.
-![Screenshot of Deployed version of website](assets/images/Screenshot%202024-03-07%20172254.png)
+Steps to deploy the project.
+Steps for others to clone the project.
 
 ## Credits
-Image on Newsletter page was found on unsplash: aaron-burden-4eWwSxaDhe4-unsplash.jpg "green ceramic mug beside book"
-
-All code was written by me, I did not use any code from other sources.
+### Content
+### Media
+Favicon
+Font awesome icons
+image of bookshelf
+Text content adapted from book shop websites
+Some css code adapted from coders coffeehouse and love running
