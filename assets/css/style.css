@@ -152,6 +152,11 @@ h3 {
         border: 2px solid peachpuff;
         border-radius: 5px;
     }
+
+    iframe {
+        width: 100vw;
+        height: 25vh;
+    }
 }
 
 /*Styles for tablet screens and larger*/
@@ -199,17 +204,4 @@ h3 {
         border: 2px solid peachpuff;
         border-radius: 5px;
     }
-
-    /*Styles for footer on laptop screens and larger*/
-    /* footer {
-        margin: 0;
-        padding: 3px 3px;
-        text-align: left;
-        background-color: lavender;
-    } */
-
-    /*Styles for background image on Newsletter page on laptop screens and larger*/
-    /* .signing-up {
-        width: 95vw;
-    } */
 }
