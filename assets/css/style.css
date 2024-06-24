@@ -74,7 +74,6 @@ section {
 header,
 footer {
     background-color: white;
-    /* width: 100%; */
     margin: 0;
 }
 
@@ -89,17 +88,12 @@ header {
     background-position: center;
 }
 
-/*More styles for footer*/
-footer {
-    width: 100%;
-    height: auto;
-}
-
 /*Styles for footer list items*/
 footer li {
     list-style-type: none;
     font-family: 'Quicksand', sans-serif;
-    font-weight: 500;
+    font-size: medium;
+    font-weight: bold;
 }
 
 h3 {
@@ -160,7 +154,8 @@ h3 {
 
     /*Styles for nav bar on laptop screens and larger*/
     nav a {
-        margin-right: 1.75%;
+        margin-right: 1.5%;
+        margin-left: 0.25%;
         padding: 2px;
         background-color: lavender;
         border: 2px solid peachpuff;
@@ -168,11 +163,12 @@ h3 {
     }
 
     /*Styles for footer on laptop screens and larger*/
-    /* footer {
-        width: 98vw;
-        align-self: center;
+    footer {
+        margin: 0;
         padding: 3px 3px;
-    } */
+        text-align: left;
+        background-color: lavender;
+    }
 
     /*Styles for background image on Newsletter page on laptop screens and larger*/
     /* .signing-up {
