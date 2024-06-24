@@ -20,7 +20,7 @@ h1 {
     padding: 15px;
     font-family: 'Quicksand', Verdana, sans-serif;
     font-style: normal;
-    font-size: xx-large; 
+    font-size: xx-large;
     text-align: center;
     color: #3d1616;
     background-color: peachpuff;
@@ -71,7 +71,8 @@ section {
 }
 
 /*Styles for header and footer*/
-header, footer {
+header,
+footer {
     background-color: white;
     /* width: 100%; */
     margin: 0;
@@ -79,10 +80,13 @@ header, footer {
 
 /*More styles for header*/
 header {
-    /* position: fixed; */
-    /* display: flex;
-    padding: 0;
-    box-sizing: border-box; */
+    width: 100vw;
+    height: 10vh;
+    /* background-image: url(../images/bookshelf-image.png); */
+    background-repeat: no-repeat;
+    background-color: #e6e6fa;
+    background-size: 90%;
+    background-position: center;
 }
 
 /*More styles for footer*/
@@ -100,7 +104,7 @@ footer li {
 
 h3 {
     color: #540b0e;
-    }
+}
 
 /*Styles for the form*/
 .form-fields {
@@ -143,11 +147,15 @@ h3 {
     /*Styles for body on laptop screens and larger*/
     body {
         width: 100vw;
+    }
+
+    /*Styles for header on laptop screens and larger*/
+    header {
         background-image: url(../images/bookshelf-image.png);
         background-repeat: no-repeat;
         background-color: #e6e6fa;
-        background-size: 90%;
-        background-position: center;
+        background-size: 33%;
+        background-position: right;
     }
 
     /*Styles for nav bar on laptop screens and larger*/
@@ -166,8 +174,8 @@ h3 {
         padding: 3px 3px;
     } */
 
-    /*Styles for background image on Newsletter page on laptop screens and larger*/   
+    /*Styles for background image on Newsletter page on laptop screens and larger*/
     /* .signing-up {
         width: 95vw;
     } */
-} 
+}
