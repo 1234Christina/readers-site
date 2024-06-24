@@ -65,6 +65,15 @@ section {
     border-radius: 15px;
 }
 
+.signing-up {
+    background-color: #FFD2BF;
+    background-image: url(../images/bookshop-bookstore-building-facade-row-books-window-vector-illustration-99251970.webp);
+    background-size: 20%;
+    background-repeat: repeat-x;
+    margin-bottom: 5px;
+    height: 70vh;
+}
+
 .unique {
     font-weight: 600;
     color: purple;
