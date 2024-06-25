@@ -30,6 +30,9 @@ h1 {
 
 /*Bookshop name styles*/
 h2 {
+    font-family: 'Quicksand', Verdana, sans-serif;
+    font-size: x-large;
+    padding: 3px;
     color: #3d1616;
 }
 
@@ -210,4 +213,17 @@ h3 {
         border: 2px solid peachpuff;
         border-radius: 5px;
     }
+
+    iframe {
+        padding: 0;
+        width: 30%;
+        height: 30%;
+    }
+}
+
+.reading-music > p {
+    font-family: 'Quicksand', Verdana, sans-serif;
+    font-size: medium;
+    color: black;
+    padding: 4px;
 }
