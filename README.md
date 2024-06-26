@@ -40,8 +40,11 @@ The site displays well when tested on all screen sizes as seen in the image at t
 
 ### Validator testing
 The deployed version of code passes validator testing for HTML and CSS
-![Screenshot of Validator testing for style.css file]()
-same for 3 html files
+
+![Explore page html validation](/assets/images/explore-page-html-validation.png)
+![Tune In page html validation](/assets/images/tune-in-page-html-validation.png)
+![Newsletter page html validation](/assets/images/newsletter-page-html-validation.png)
+![CSS Validation](/assets/images/css-validation.png)
 
 ## Deployment
 Steps to deploy the project.
