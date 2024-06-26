@@ -232,6 +232,11 @@ h3 {
         width: 30%;
         height: 30%;
     }
+
+    /*Styles to push footer down on laptop screens and larger*/
+    main {
+        min-height: 80vh;
+    }
 }
 
 /*Styles for paragraph on Tune In page on all screen sizes*/
