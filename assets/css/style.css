@@ -72,11 +72,16 @@ section {
 .signing-up {
     background-color: #FFD2BF;
     background-image: url(../images/bookshop-bookstore-building-facade-row-books-window-vector-illustration-99251970.webp);
-    background-size: 75%;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-size: 220px;
+    background-repeat: repeat-x;
+    background-position: center bottom;
     margin-bottom: 5px;
     height: 70vh;
+}
+
+fieldset {
+    border: none;
+    padding: 3%;
 }
 
 /*Styling for sign up form*/
