@@ -18,9 +18,11 @@ h1 {
 #tagline {
     margin: 0 2%;
     padding: 15px;
-    font-family: 'Quicksand', Verdana, sans-serif;
+    /* font-family: 'Quicksand', Verdana, sans-serif;
     font-style: normal;
-    font-size: xx-large;
+    font-size: xx-large; */
+    /*font shorthand*/
+    font: normal xx-large 'Quicksand', Verdana, sans-serif;
     text-align: center;
     color: #3d1616;
     background-color: peachpuff;
@@ -60,9 +62,11 @@ nav a:hover {
 section {
     color: black;
     background-color: #FFD2BF;
-    font-family: 'Quicksand', Verdana, sans-serif;
+    /* font-family: 'Quicksand', Verdana, sans-serif;
     font-weight: 500;
-    font-size: large;
+    font-size: large; */
+    /*Font shorthand*/
+    font: 500 large 'Quicksand', Verdana, sans-serif;
     margin: 0 3% 0 3%;
     padding: 2.5%;
     border-radius: 15px;
@@ -92,7 +96,7 @@ fieldset {
 /*Styling for unique paragraphs*/
 .unique {
     font-weight: 600;
-    color: purple;
+    color: #790679d3;
 }
 
 /*Styles for header and footer*/
@@ -124,9 +128,11 @@ footer {
 /*Styles for footer list items*/
 footer li {
     list-style-type: none;
-    font-family: 'Quicksand', sans-serif;
+    /* font-family: 'Quicksand', sans-serif;
     font-size: medium;
-    font-weight: bold;
+    font-weight: bold; */
+    /*Font shorthand*/
+    font: bold medium 'Quicksand', sans-serif;
 }
 
 h3 {
@@ -149,7 +155,7 @@ h3 {
 
 /*Styles for mobile screens and larger */
 @media screen and (min-width: 320px) {
-    
+
     /*Styles for header on mobile screens and larger*/
     header {
         background-image: url(../images/bookshelf-image.png);
@@ -177,7 +183,7 @@ h3 {
 
 /*Styles for tablet screens and larger*/
 @media screen and (min-width: 768px) {
-    
+
     /*Styles for header on tablet screens and larger*/
     header {
         background-image: url(../images/bookshelf-image.png);
@@ -236,7 +242,7 @@ h3 {
         /* display: block;
         padding: 0;
         /* width: auto; */
-        /* height: 30vh; */ 
+        /* height: 30vh; */
 
         display: grid;
         min-height: 40vh;
@@ -251,8 +257,10 @@ h3 {
 
 /*Styles for paragraph on Tune In page on all screen sizes*/
 .reading-music > p {
-    font-family: 'Quicksand', Verdana, sans-serif;
-    font-size: medium;
+    /* font-family: 'Quicksand', Verdana, sans-serif;
+    font-size: medium; */
+    /*Font shorthand*/
+    font: medium 'Quicksand', sans-serif;
     color: black;
     padding: 4px;
 }
