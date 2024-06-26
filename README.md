@@ -28,12 +28,7 @@ The Tune In page could include regularly updated podcasts playable within the we
 ### Lighthouse Testing
 I did testing on Lighthouse regularly throughout the development process to ensure my updates were efficient in every way.
 
-The deployed website does well on Lighthouse testing for all three pages
-![Screenshot of Lighthouse report Explore page, deployed version]()
-
-![Screenshot of Lighthouse report Tune In Page, deployed version]()
-
-![Screenshot of Lighthouse report Newsletter Page, deployed version]()
+The deployed website does well on Lighthouse testing for all three pages and scores between 90 - 100 on most items, for both mobile and desktop.
 
 ### Am I Responsive? Testing
 The site displays well when tested on all screen sizes as seen in the image at the top of the file.
