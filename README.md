@@ -46,10 +46,31 @@ Steps to deploy the project.
 Steps for others to clone the project.
 
 ## Credits
-### Content
+
 ### Media
-Favicon
-Font awesome icons
-image of bookshelf
-Text content adapted from book shop websites
-Some css code adapted from coders coffeehouse and love running
+The icon on the page tab was found at: [Favicon](https://favicon.io/emoji-favicons/books/)
+
+The bookshelf image used in the page header was found at: [VectorStock](https://www.vectorstock.com/royalty-free-vector/book-shelf-concept-vector-45081013)
+
+The bookshop image used on the Newsletter page was found at: [dreamstime](https://www.dreamstime.com/stock-illustration-bookshop-bookstore-building-facade-row-books-window-vector-illustration-image99251970)
+
+These are the three reading music video links used on the Tune-In page:
+
+[First Video - Study Music Alpha Waves](https://www.youtube.com/watch?v=WPni755-Krg&t=198s)
+
+[Second Video - Reading Music, Ambient Study Music, Atmospheric Music for Studying, Concentration](https://www.youtube.com/watch?v=I6wFBVk4uGQ)
+
+[Third Video - 3 Hour Focus Music](https://www.youtube.com/watch?v=ctXQxPO3bbg&list=PLQkQfzsIUwRaXv-BmCq4sWcOTDz1Vd_F2)
+
+
+### Content
+
+The text content on the Explore page is adapted from each bookshop's website as follows:
+
+Waterstones website: [Waterstones Cork](https://www.waterstones.com/bookshops/cork)
+
+Vibes and Scribes website: [Vibes and Scribes Ireland](https://www.vibesandscribes.ie/about-us/)
+
+Dubray Books website: [Dubray Books Ireland](https://www.dubraybooks.ie/giftcard/personal-shopper)
+
+Some CSS code in the style.css file is adapted from the Coders Coffeehouse and Love Running Walkthrough projects.
