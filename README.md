@@ -15,8 +15,21 @@ layouts
 ![Screenshot of Am I Responsive reslt for deployed project]() 
 
 ## Features
-Landing Page: 
-There are three sections where the user can read information on three great bookshops in the city of Cork. Each section tells the user a little about the shop and what they can expect to find there.
+
+### Landing Page: 
+
+#### Bookshop sections
++ Each bookshop has a dedicated section on the landing page.
++ The user can learn a little about the shop and what they can expect to find there.
+
+![Section](/assets/images/section-pp1.png)
+
+The page header contains a handy navigation menu below the page title so people can easily move between pages on the site.
+
+![Header nav](/assets/images/nav-pp1.png)
+
+It also includes a beautiful illustration of books on a shelf. 
+![Header](/assets/images/header-image-pp1.png)
 
 ![Screenshot of deployed version of Landing page]()
 
@@ -97,5 +110,7 @@ Waterstones website: [Waterstones Cork](https://www.waterstones.com/bookshops/co
 Vibes and Scribes website: [Vibes and Scribes Ireland](https://www.vibesandscribes.ie/about-us/)
 
 Dubray Books website: [Dubray Books Ireland](https://www.dubraybooks.ie/giftcard/personal-shopper)
+
+### Code
 
 Some CSS code in the style.css file is adapted from the Coders Coffeehouse and Love Running Walkthrough projects.
