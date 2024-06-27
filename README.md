@@ -90,18 +90,9 @@ These are the three reading music video links used on the Tune-In page:
 
 
 ### Content
-
-The text content on the Explore page is adapted from each bookshop's website as follows:
-
- + Waterstones website: [Waterstones Cork](https://www.waterstones.com/bookshops/cork)
-
-+ Vibes and Scribes website: [Vibes and Scribes Ireland](https://www.vibesandscribes.ie/about-us/)
-
-+ Dubray Books website: [Dubray Books Ireland](https://www.dubraybooks.ie/giftcard/personal-shopper)
-
-### Code
-
-Some CSS code in the style.css file is adapted from the Coders Coffeehouse and Love Running Walkthrough projects. 
-
-
-
+### Media
+Favicon
+Font awesome icons
+image of bookshelf
+Text content adapted from book shop websites
+Some css code adapted from coders coffeehouse and love running
