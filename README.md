@@ -1,5 +1,6 @@
 # ROAMING READERS
-[Roaming Readers](https://1234christina.github.io/readers-site/) is a website for people who love reading. It highlights the best bookshops to visit in Cork City. 
+[Roaming Readers](https://1234christina.github.io/readers-site/) is a website for people who love reading. 
+It highlights the best bookshops to visit in Cork City. 
 
 On the site, readers can:
 + Discover the top three bookshops in Cork City, satisfying their curiosity about which shops are popular right now.
@@ -7,16 +8,30 @@ On the site, readers can:
 + Find the precise location of each shop, ensuring they know exactly where to go to avail of these services.
 + Listen to appropriate reading music without leaving the site.
 
-## Design
-colour schemes 
-fonts 
-layouts
 
-![Screenshot of Am I Responsive reslt for deployed project]() 
+## Design
+The color palette was chosen based on the bookshelf image,
+and was generated using [ColorSpace](https://mycolor.space/).
+
+Where the background is not white, pale pastels are used to make the text easy to read.
 
 ## Features
 
 ### Landing Page: 
+
+#### Tagline
+A new visitor to the website immediately sees the tagline below the header, which tells them the website showcases the best bookshops in Cork City. 
+
+![Tagline](/assets/images/tagline-pp1.png)
+
+#### Header and Navigation
+The page header contains a handy navigation menu below the page title, so people can easily move between pages on the site.
+
+![Header nav](/assets/images/nav-pp1.png)
+
+It also includes a beautiful illustration of books on a shelf. 
+
+![Header](/assets/images/header-image-pp1.png)
 
 #### Bookshop sections
 + Each bookshop has a dedicated section on the landing page.
@@ -24,23 +39,25 @@ layouts
 
 ![Section](/assets/images/section-pp1.png)
 
-The page header contains a handy navigation menu below the page title so people can easily move between pages on the site.
+#### Special Feature
+Each section also boasts a highlight of that particular bookshop. 
 
-![Header nav](/assets/images/nav-pp1.png)
+![Highlight](/assets/images/highlight-pp1.png)
 
-It also includes a beautiful illustration of books on a shelf. 
-![Header](/assets/images/header-image-pp1.png)
+### Tune In Page: 
+Here, the user can listen to some appropriate music while enjoying a good book.
 
-![Screenshot of deployed version of Landing page]()
+![Reading music](/assets/images/reading-music-pp1.png)
 
-Tune In Page: 
-There are two embedded reading music videos a user can utilize without having to leave the website. Here, the user can listen to some appropriate music while enjoying a good book.
+### Newsletter page:
 
-![Screenshot of deployed version of Tune In page]()
+The user will find a fully validated sign-up form for a newsletter about more bookshops. This feature enables the user to easily stay up to date with more information.
 
-Newsletter Page: The user will find a fully validated sign-up form for a newsletter about more bookshops. This feature enables the user to easy receive more information.
+![Newsletter page](/assets/images/newsletter-sign-up-pp1.png)
 
-![Screenshot of deployed version of Newsletter page]()
+The sign-up form is accompanied by a pleasing image of a row of bookshops.
+
+![Bookshop](/assets/images/newsletter-image-pp1.png)
 
 ### Future Features 
 
