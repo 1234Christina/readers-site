@@ -8,12 +8,17 @@ On the site, readers can:
 + Find the precise location of each shop, ensuring they know exactly where to go to avail of these services.
 + Listen to appropriate reading music without leaving the site.
 
+![Roaming Readers](/assets/images/roaming-readers-responsive.png)
 
 ## Design
 The color palette was chosen based on the bookshelf image,
 and was generated using [ColorSpace](https://mycolor.space/).
-
 Where the background is not white, pale pastels are used to make the text easy to read.
+
+The page header is consistent across all pages, keeping the navigation and site name to the left and the bookshelf image to the right. The footer is consistent across all pages. 
+
+For readers the size of the text is important, and on the website, the text is appropriately sized for readability. 
+The colors are generally light and cheerful while not overpowering the text.
 
 ## Features
 
@@ -34,7 +39,7 @@ It also includes a beautiful illustration of books on a shelf.
 ![Header](/assets/images/header-image-pp1.png)
 
 #### Bookshop sections
-+ Each bookshop has a dedicated section on the landing page.
++ Each bookshop featured has a dedicated section on the landing page.
 + The user can learn a little about the shop and what they can expect to find there.
 
 ![Section](/assets/images/section-pp1.png)
@@ -55,7 +60,7 @@ The user will find a fully validated sign-up form for a newsletter about more bo
 
 ![Newsletter page](/assets/images/newsletter-sign-up-pp1.png)
 
-The sign-up form is accompanied by a pleasing image of a row of bookshops.
+The sign-up form is accompanied by a pleasing illustration of a row of bookshops.
 
 ![Bookshop](/assets/images/newsletter-image-pp1.png)
 
@@ -73,15 +78,15 @@ The sign-up form is accompanied by a pleasing image of a row of bookshops.
 ### Lighthouse Testing
 The deployed website does well on Lighthouse testing for all three pages and scores between 90 - 100 on most items, for both mobile and desktop.
 
-
-### Am I Responsive? Testing
-The site displays well when tested on all screen sizes as seen in the image at the top of the file.
-
-
-
+![Explore page on desktop](/assets/images/lighthouse-explore-desktop.png)
+![Explore page on mobile](/assets/images/lighthouse-explore.png)
+![Tune In page on desktop](/assets/images/lighthouse-tune-in-desktop.png)
+![Tune In page on mobile](/assets/images/lighthouse-tune-in.png)
+![Newsletter page on desktop](/assets/images/lighthouse-newsletter-desktop.png)
+![Newsletter page on mobile](/assets/images/lighthouse-newsletter.png)
 
 ### Validator testing
-The deployed version of code passes validator testing for HTML and CSS
+The deployed version of the code passes validator testing for HTML and CSS
 
 ![Explore page html validation](/assets/images/explore-page-html-validation.png)
 ![Tune In page html validation](/assets/images/tune-in-page-html-validation.png)
