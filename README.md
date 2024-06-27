@@ -88,11 +88,14 @@ These are the three reading music video links used on the Tune-In page:
 
 3. [Third Video - 3 Hour Focus Music](https://www.youtube.com/watch?v=ctXQxPO3bbg&list=PLQkQfzsIUwRaXv-BmCq4sWcOTDz1Vd_F2)
 
-
 ### Content
-### Media
-Favicon
-Font awesome icons
-image of bookshelf
-Text content adapted from book shop websites
-Some css code adapted from coders coffeehouse and love running
+
+The text content on the Explore page is adapted from each bookshop's website as follows:
+
+Waterstones website: [Waterstones Cork](https://www.waterstones.com/bookshops/cork)
+
+Vibes and Scribes website: [Vibes and Scribes Ireland](https://www.vibesandscribes.ie/about-us/)
+
+Dubray Books website: [Dubray Books Ireland](https://www.dubraybooks.ie/giftcard/personal-shopper)
+
+Some CSS code in the style.css file is adapted from the Coders Coffeehouse and Love Running Walkthrough projects.
