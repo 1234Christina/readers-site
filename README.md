@@ -11,7 +11,7 @@ On the site, readers can:
 ![Roaming Readers](/assets/images/roaming-readers-responsive.png)
 
 ## Design
-The color palette was chosen based on the bookshelf image,
+The color palette was chosen based on the bookshelf image
 and was generated using [ColorSpace](https://mycolor.space/).
 Where the background is not white, pale pastels are used to make the text easy to read.
 
@@ -50,7 +50,7 @@ Each section also boasts a highlight of that particular bookshop.
 ![Highlight](/assets/images/highlight-pp1.png)
 
 ### Tune In Page: 
-Here, the user can listen to some appropriate music while enjoying a good book.
+Here, the user can listen to appropriate music while enjoying a good book.
 
 ![Reading music](/assets/images/reading-music-pp1.png)
 
@@ -68,7 +68,7 @@ The sign-up form is accompanied by a pleasing illustration of a row of bookshops
 
 #### Explore page
 - The website could potentially be further developed to allow readers to discover bookshops in other cities and towns.
-- A feature update could include a dropdown menu of cities to choose from.  Having selected their chosen city, the user could navigate to the appropriate page section for that city.
+- A feature update could include a dropdown menu of cities to choose from.  Having selected their chosen city, the user could navigate to the appropriate page section for that city.
 
 #### Tune In page 
 - A feature update could include podcasts, playable within the website.
@@ -76,7 +76,7 @@ The sign-up form is accompanied by a pleasing illustration of a row of bookshops
 
 ## Testing 
 ### Lighthouse Testing
-The deployed website does well on Lighthouse testing for all three pages and scores between 90 - 100 on most items, for both mobile and desktop.
+The deployed website does well on Lighthouse testing for all three pages and scores between 90 - 100 on most items for both mobile and desktop.
 
 ![Explore page on desktop](/assets/images/lighthouse-explore-desktop.png)
 ![Explore page on mobile](/assets/images/lighthouse-explore.png)
@@ -94,17 +94,24 @@ The deployed version of the code passes validator testing for HTML and CSS
 ![CSS Validation](/assets/images/css-validation.png)
 
 ## Deployment
-To deploy this project:
 
+### Deploy
+The website can be deployed to GitHub pages as follows:
 
+1. Navigate to the Settings tab in the GitHub repository for the project.
+2. Scroll down to the Pages tab.
+3. Under the source tab, choose the branch Main, and in the dropdown menu next to it select the root folder.
+4. Next, click save.
+5. The page will deploy in minutes and a link to the deployed site will display at the top of the page.
 
-Steps to deploy the project.
+### Clone
+The website can be cloned from GitHub pages as follows:
 
-To clone this project:
-
-
-
-Steps for others to clone the project.
+1. Navigate to the Code tab in the GitHub repository for the project.
+2. Click the green Code button, and under the Local tab click GitHub CLI. 
+3. Copy the link to clone the repository. 
+4. Open Git Bash and change the current working directory to the location where you want the cloned directory.
+5. Type git clone, paste in the link, and press Enter to create your local clone.
 
 ## Credits
 
@@ -131,8 +138,4 @@ Waterstones website: [Waterstones Cork](https://www.waterstones.com/bookshops/co
 
 Vibes and Scribes website: [Vibes and Scribes Ireland](https://www.vibesandscribes.ie/about-us/)
 
-Dubray Books website: [Dubray Books Ireland](https://www.dubraybooks.ie/giftcard/personal-shopper)
-
-### Code
-
-Some CSS code in the style.css file is adapted from the Coders Coffeehouse and Love Running Walkthrough projects.
+Dubray Books website: [Dubray Books Ireland](https://www.dubraybooks.ie/gift/personal-shopper)
